@@ -7,12 +7,11 @@
 <br>
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.vijaypatidar99.vercel.app/api/spotify)](https://open.spotify.com/user/31vv4m62rbgv6cvkst72555olpku) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=vijaypatidar99&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvijaypatidar99&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/v_4_vijay-grey?style=flat&logo=telegram)](https://t.me/v_4_vijay) <br>
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/v_4_vijay) <br>
 </div>
 <hr></hr>
 
@@ -56,23 +55,26 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/vijaypatidar99">
 
-<img src="https://raw.githubusercontent.com/vijaypatidar99/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/vijaypatidar99/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/vijaypatidar99/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijaypatidar99&theme=aura&utcOffset=8" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijaypatidar99&theme=aura" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijaypatidar99&theme=aura" width="32.5%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/vijaypatidar99/blob/main/images/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijaypatidar99&theme=aura" >
 
 </details>
 
 <hr></hr>
+<h2 align="left">:heart: Let's get connected:</h2>
 
-<img src="https://github.com/vijaypatidar99/vijaypatidar99/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/vijaypatidar99" width="75%"/><br>
-<img src="https://github.com/vijaypatidar99/vijaypatidar99/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+[![Linkedin Badge](https://img.shields.io/badge/-vijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/vijay-patidar%F0%9F%87%AE%F0%9F%87%B3-951a16206/)
+ [![Twitter Badge](https://img.shields.io/badge/-@v_4_vijay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/v_4_vijay) 
+ [![Facebook Badge](https://img.shields.io/badge/-@v_4_vijay-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/v4vijayy)
+[![Instagram Badge](https://img.shields.io/badge/-@v_4_vijay-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/_viijay_01/)
 
 </div>
 
