@@ -1,7 +1,8 @@
-<div align="center" width="50">
-
-<img src="https://github.com/vijaypatidar99/vijaypatidar99/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/vijaypatidar99" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/vijaypatidar99/vijaypatidar99/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/vijaypatidar99" alt="CoDiNg RocKs"  width="60%"/><br> 
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Vijay patidar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.oneorigin.us/">Bestpeers
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
   
 <p><strong>3rd year MCA student. During day, Assisting
 <br>
