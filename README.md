@@ -12,14 +12,15 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=vijaypatidar99&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvijaypatidar99&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/v_4_vijay) <br>
+[![telegram badge](https://img.shields.io/badge/v_4_vijay-grey?style=flat&logo=telegram)](https://t.me/v_4_vijay) <br>
 </div>
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![ROR](https://img.shields.io/badge/-Ruby-red)
+![RUBY](https://img.shields.io/badge/-Ruby-red)
+![ROR](https://img.shields.io/badge/%20-ROR-red)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
